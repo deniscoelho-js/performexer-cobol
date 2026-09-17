@@ -24,4 +24,4 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Terminal/Console
 - Boas práticas de programação estruturada
 
-## Payload
+<!-- ## Payload -->
